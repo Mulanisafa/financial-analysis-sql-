@@ -47,6 +47,6 @@ git init
 git add .
 git commit -m "Initial commit: financial SQL analysis"
 git branch -M main
-git remote add origin https://github.com/yourusername/financial-performance-sql.git
+git remote add origin https://github.com/Mulanisafa/financial-performance-sql.git
 git push -u origin main
 ✅ Done!
